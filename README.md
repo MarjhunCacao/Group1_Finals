@@ -34,5 +34,11 @@ The work of engineers forms the link between scientific discoveries and their su
 ![image](https://github.com/MarjhunCacao/Group1_Finals/assets/144245978/664bf2f7-a5ce-452a-abd8-f6b5f9a0156a)
 
 
-
 - Rowan Atkinson, born in 1955 in the UK, completed his bachelor’s degree in electrical engineering from Newcastle University. In 1975 Atkinson went on to continue his studies to obtain a Master’s of Science in electrical engineering from The Queen’s College, Oxford. Although Atkinson did not complete his master’s studies, he began his success working at the BBC as a member of the comedy-show ‘Not the Nine-o-clock-news’. He is famously known worldwide for his role as, Mr. Bean.
+
+## GROUP 1
+  Atienza, Mark Angelo
+  
+  Cacao, Marjhun
+  
+  De Leyos, Van Ralthe
