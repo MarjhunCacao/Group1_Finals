@@ -42,3 +42,5 @@ The work of engineers forms the link between scientific discoveries and their su
   Cacao, Marjhun
   
   De Leyos, Van Ralthe
+
+### [Codes used for the Face Recognition](https://github.com/MarjhunCacao/Group1_Finals/blob/main/Group_1_Finals.ipynb)
