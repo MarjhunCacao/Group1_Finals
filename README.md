@@ -61,6 +61,8 @@ The work of engineers forms the link between scientific discoveries and their su
 
 - Rashid Bashir is Dean of The Grainger College of Engineering, Grainger Distinguished Chair in Engineering and Professor of Bioengineering, at the University of Illinois at Urbana-Champaign. He was the Executive Associate Dean and Chief Diversity Officer at the Carle-Illinois College of Medicine at UIUC.
 
+> [!NOTE]
+> This isn’t simply a list of the most influential engineers alive today. Here we are focused on the number of citations and web presence of scholars in the last 10 years. There are other highly influential scholars who simply haven’t been cited and talked about as much in the last 10 years, whereas some new faces have been making a splash in the news, speaking events, and publishing, publishing, publishing. Our AI is time sensitive. To find some of the big names you might have expected to see here, we encourage you to use our dynamic ranking system and check influence over the past 20 and 50 years.
 
 ### [Codes used for the Face Recognition](https://github.com/MarjhunCacao/Group1_Finals/blob/main/Group_1_Finals.ipynb)
 ## GROUP 1
