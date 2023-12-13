@@ -64,7 +64,21 @@ The work of engineers forms the link between scientific discoveries and their su
 > [!NOTE]
 > This isn’t simply a list of the most influential engineers alive today. Here we are focused on the number of citations and web presence of scholars in the last 10 years. There are other highly influential scholars who simply haven’t been cited and talked about as much in the last 10 years, whereas some new faces have been making a splash in the news, speaking events, and publishing, publishing, publishing. Our AI is time sensitive. To find some of the big names you might have expected to see here, we encourage you to use our dynamic ranking system and check influence over the past 20 and 50 years.
 
-### [Codes used for the Face Recognition](https://github.com/MarjhunCacao/Group1_Finals/blob/main/Group_1_Finals.ipynb)
+## ✔️ 7 Unknown Engineers:
+
+![image](https://github.com/MarjhunCacao/Group1_Finals/assets/144245978/24ee500d-ba2b-44dd-9a53-354ed9af8f9f)
+![image](https://github.com/MarjhunCacao/Group1_Finals/assets/144245978/c4ee64f1-3954-491c-a0d6-8546e37632ac)
+![image](https://github.com/MarjhunCacao/Group1_Finals/assets/144245978/f487d33f-a4f9-415c-a89b-62cb687f3e60)
+![image](https://github.com/MarjhunCacao/Group1_Finals/assets/144245978/6262f0b5-f779-463e-b0a7-f7b56bfbe804)
+![image](https://github.com/MarjhunCacao/Group1_Finals/assets/144245978/a9ba226e-37eb-4066-90b4-4f73752cddbc)
+![image](https://github.com/MarjhunCacao/Group1_Finals/assets/144245978/eed2c579-0ebb-4b46-b3bd-4fd04d79d256)
+![image](https://github.com/MarjhunCacao/Group1_Finals/assets/144245978/38b7a7be-0de7-403b-80a9-77233459fcd8)
+
+
+
+
+
+- ### [Codes used for the Face Recognition](https://github.com/MarjhunCacao/Group1_Finals/blob/main/Group_1_Finals.ipynb)
 ## GROUP 1
   Atienza, Mark Angelo
   
